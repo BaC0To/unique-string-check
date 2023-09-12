@@ -6,4 +6,4 @@ def is_unique(input_string) -> bool:
     return len(input_string) == len(set(input_string))
     
 
-print(is_unique("abc"))
+#print(is_unique("abc"))

@@ -1,6 +1,6 @@
 import unittest
 
-from string_uniqueness import is_unique
+from  string_uniqueness import is_unique
 
 class TestUniqueString(unittest.TestCase):
 
